@@ -1,0 +1,204 @@
+2025-04-11 09:27:26,286 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-11 09:27:30,607 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-11 09:27:30,612 - GeographGuardian - INFO - Loaded 28 country mappings
+2025-04-11 09:55:40,064 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-11 09:55:44,343 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-11 09:55:44,350 - GeographGuardian - INFO - Loaded 28 country mappings
+2025-04-11 09:55:44,406 - GeographGuardian - INFO - Retrieved 15 suppliers
+2025-04-11 09:55:44,407 - GeographGuardian - DEBUG - Cache expired for geo_apac,_japan
+2025-04-11 09:55:44,723 - GeographGuardian - DEBUG - Saved to cache: geo_apac,_japan
+2025-04-11 09:55:44,724 - GeographGuardian - INFO - Inserting location for supplier SUP001: {"lat": 1.9847397, "lon": 32.5342155}
+2025-04-11 09:55:44,726 - GeographGuardian - DEBUG - Cache expired for geo_europe,_germany
+2025-04-11 09:55:44,973 - GeographGuardian - DEBUG - Saved to cache: geo_europe,_germany
+2025-04-11 09:55:44,973 - GeographGuardian - INFO - Inserting location for supplier SUP002: {"lat": 48.878451749999996, "lon": 2.315705732787229}
+2025-04-11 09:55:44,975 - GeographGuardian - DEBUG - Cache expired for geo_apac,_taiwan
+2025-04-11 09:55:45,226 - GeographGuardian - DEBUG - Saved to cache: geo_apac,_taiwan
+2025-04-11 09:55:45,227 - GeographGuardian - INFO - Inserting location for supplier SUP003: {"lat": 1.9847397, "lon": 32.5342155}
+2025-04-11 09:55:45,229 - GeographGuardian - DEBUG - Retrieved from cache: geo_apac,_taiwan
+2025-04-11 09:55:45,229 - GeographGuardian - INFO - Inserting location for supplier SUP004: {"lat": 1.9847397, "lon": 32.5342155}
+2025-04-11 09:55:45,230 - GeographGuardian - DEBUG - Retrieved from cache: geo_europe,_germany
+2025-04-11 09:55:45,230 - GeographGuardian - INFO - Inserting location for supplier SUP005: {"lat": 48.878451749999996, "lon": 2.315705732787229}
+2025-04-11 09:55:45,231 - GeographGuardian - DEBUG - Cache expired for geo_americas,_usa
+2025-04-11 09:55:45,476 - GeographGuardian - DEBUG - Saved to cache: geo_americas,_usa
+2025-04-11 09:55:45,477 - GeographGuardian - INFO - Inserting location for supplier SUP006: {"lat": 19.1982908, "lon": -99.5486812}
+2025-04-11 09:55:45,479 - GeographGuardian - DEBUG - Cache expired for geo_apac,_china
+2025-04-11 09:55:45,725 - GeographGuardian - DEBUG - Saved to cache: geo_apac,_china
+2025-04-11 09:55:45,726 - GeographGuardian - INFO - Inserting location for supplier SUP007: {"lat": 1.9847397, "lon": 32.5342155}
+2025-04-11 09:55:45,728 - GeographGuardian - DEBUG - Retrieved from cache: geo_apac,_japan
+2025-04-11 09:55:45,728 - GeographGuardian - INFO - Inserting location for supplier SUP008: {"lat": 1.9847397, "lon": 32.5342155}
+2025-04-11 09:55:45,729 - GeographGuardian - DEBUG - Retrieved from cache: geo_apac,_china
+2025-04-11 09:55:45,729 - GeographGuardian - INFO - Inserting location for supplier SUP009: {"lat": 1.9847397, "lon": 32.5342155}
+2025-04-11 09:55:45,730 - GeographGuardian - DEBUG - Retrieved from cache: geo_apac,_china
+2025-04-11 09:55:45,730 - GeographGuardian - INFO - Inserting location for supplier SUP010: {"lat": 1.9847397, "lon": 32.5342155}
+2025-04-11 09:55:45,731 - GeographGuardian - DEBUG - Cache expired for geo_apac,_south_korea
+2025-04-11 09:55:45,971 - GeographGuardian - DEBUG - Saved to cache: geo_apac,_south_korea
+2025-04-11 09:55:45,972 - GeographGuardian - INFO - Inserting location for supplier SUP011: {"lat": 1.9847397, "lon": 32.5342155}
+2025-04-11 09:55:45,973 - GeographGuardian - DEBUG - Retrieved from cache: geo_apac,_china
+2025-04-11 09:55:45,973 - GeographGuardian - INFO - Inserting location for supplier SUP012: {"lat": 1.9847397, "lon": 32.5342155}
+2025-04-11 09:55:45,975 - GeographGuardian - DEBUG - Retrieved from cache: geo_apac,_taiwan
+2025-04-11 09:55:45,975 - GeographGuardian - INFO - Inserting location for supplier SUP013: {"lat": 1.9847397, "lon": 32.5342155}
+2025-04-11 09:55:45,976 - GeographGuardian - DEBUG - Retrieved from cache: geo_americas,_usa
+2025-04-11 09:55:45,976 - GeographGuardian - INFO - Inserting location for supplier SUP014: {"lat": 19.1982908, "lon": -99.5486812}
+2025-04-11 09:55:45,977 - GeographGuardian - DEBUG - Retrieved from cache: geo_apac,_south_korea
+2025-04-11 09:55:45,977 - GeographGuardian - INFO - Inserting location for supplier SUP015: {"lat": 1.9847397, "lon": 32.5342155}
+2025-04-11 09:55:45,979 - GeographGuardian - INFO - Coordinates type check for SUP001: object
+2025-04-11 09:55:45,979 - GeographGuardian - INFO - Coordinates value: {'lat': 1.9847397, 'lon': 32.5342155}
+2025-04-11 09:55:45,979 - GeographGuardian - INFO - Coordinates type check for SUP002: object
+2025-04-11 09:55:45,979 - GeographGuardian - INFO - Coordinates value: {'lat': 48.878451749999996, 'lon': 2.315705732787229}
+2025-04-11 09:55:45,979 - GeographGuardian - INFO - Updated 15 supplier locations
+2025-04-11 09:55:46,032 - GeographGuardian - INFO - Processing weather for 15 supplier locations
+2025-04-11 09:55:46,032 - GeographGuardian - INFO - Processing supplier SUP001 with coordinates type: <class 'dict'>
+2025-04-11 09:55:46,032 - GeographGuardian - INFO - Getting weather for supplier SUP001 at coordinates: lat=1.9847397, lon=32.5342155
+2025-04-11 09:55:46,033 - GeographGuardian - DEBUG - Cache expired for current_1.9847397_32.5342155
+2025-04-11 09:55:46,140 - GeographGuardian - DEBUG - Saved to cache: current_1.9847397_32.5342155
+2025-04-11 09:55:46,141 - GeographGuardian - DEBUG - Cache expired for forecast_1.9847397_32.5342155
+2025-04-11 09:55:46,291 - GeographGuardian - DEBUG - Saved to cache: forecast_1.9847397_32.5342155
+2025-04-11 09:55:46,292 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:46,292 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:46,292 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:46,292 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:46,369 - GeographGuardian - INFO - Processing supplier SUP002 with coordinates type: <class 'dict'>
+2025-04-11 09:55:46,369 - GeographGuardian - INFO - Getting weather for supplier SUP002 at coordinates: lat=48.878451749999996, lon=2.315705732787229
+2025-04-11 09:55:46,380 - GeographGuardian - DEBUG - Cache expired for current_48.878451749999996_2.315705732787229
+2025-04-11 09:55:46,485 - GeographGuardian - DEBUG - Saved to cache: current_48.878451749999996_2.315705732787229
+2025-04-11 09:55:46,486 - GeographGuardian - DEBUG - Cache expired for forecast_48.878451749999996_2.315705732787229
+2025-04-11 09:55:46,622 - GeographGuardian - DEBUG - Saved to cache: forecast_48.878451749999996_2.315705732787229
+2025-04-11 09:55:46,623 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:46,623 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:46,623 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:46,623 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:46,700 - GeographGuardian - INFO - Processing supplier SUP003 with coordinates type: <class 'dict'>
+2025-04-11 09:55:46,700 - GeographGuardian - INFO - Getting weather for supplier SUP003 at coordinates: lat=1.9847397, lon=32.5342155
+2025-04-11 09:55:46,700 - GeographGuardian - DEBUG - Retrieved from cache: current_1.9847397_32.5342155
+2025-04-11 09:55:46,700 - GeographGuardian - DEBUG - Retrieved from cache: forecast_1.9847397_32.5342155
+2025-04-11 09:55:46,700 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:46,700 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:46,700 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:46,700 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:46,759 - GeographGuardian - INFO - Processing supplier SUP004 with coordinates type: <class 'dict'>
+2025-04-11 09:55:46,759 - GeographGuardian - INFO - Getting weather for supplier SUP004 at coordinates: lat=1.9847397, lon=32.5342155
+2025-04-11 09:55:46,759 - GeographGuardian - DEBUG - Retrieved from cache: current_1.9847397_32.5342155
+2025-04-11 09:55:46,760 - GeographGuardian - DEBUG - Retrieved from cache: forecast_1.9847397_32.5342155
+2025-04-11 09:55:46,760 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:46,760 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:46,760 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:46,760 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:46,826 - GeographGuardian - INFO - Processing supplier SUP005 with coordinates type: <class 'dict'>
+2025-04-11 09:55:46,826 - GeographGuardian - INFO - Getting weather for supplier SUP005 at coordinates: lat=48.878451749999996, lon=2.315705732787229
+2025-04-11 09:55:46,826 - GeographGuardian - DEBUG - Retrieved from cache: current_48.878451749999996_2.315705732787229
+2025-04-11 09:55:46,826 - GeographGuardian - DEBUG - Retrieved from cache: forecast_48.878451749999996_2.315705732787229
+2025-04-11 09:55:46,826 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:46,826 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:46,827 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:46,827 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:46,885 - GeographGuardian - INFO - Processing supplier SUP006 with coordinates type: <class 'dict'>
+2025-04-11 09:55:46,885 - GeographGuardian - INFO - Getting weather for supplier SUP006 at coordinates: lat=19.1982908, lon=-99.5486812
+2025-04-11 09:55:46,886 - GeographGuardian - DEBUG - Cache expired for current_19.1982908_-99.5486812
+2025-04-11 09:55:46,994 - GeographGuardian - DEBUG - Saved to cache: current_19.1982908_-99.5486812
+2025-04-11 09:55:46,995 - GeographGuardian - DEBUG - Cache expired for forecast_19.1982908_-99.5486812
+2025-04-11 09:55:47,124 - GeographGuardian - DEBUG - Saved to cache: forecast_19.1982908_-99.5486812
+2025-04-11 09:55:47,125 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:47,125 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:47,125 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:47,125 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:47,185 - GeographGuardian - INFO - Processing supplier SUP007 with coordinates type: <class 'dict'>
+2025-04-11 09:55:47,186 - GeographGuardian - INFO - Getting weather for supplier SUP007 at coordinates: lat=1.9847397, lon=32.5342155
+2025-04-11 09:55:47,186 - GeographGuardian - DEBUG - Retrieved from cache: current_1.9847397_32.5342155
+2025-04-11 09:55:47,186 - GeographGuardian - DEBUG - Retrieved from cache: forecast_1.9847397_32.5342155
+2025-04-11 09:55:47,186 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:47,186 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:47,186 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:47,186 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:47,245 - GeographGuardian - INFO - Processing supplier SUP008 with coordinates type: <class 'dict'>
+2025-04-11 09:55:47,245 - GeographGuardian - INFO - Getting weather for supplier SUP008 at coordinates: lat=1.9847397, lon=32.5342155
+2025-04-11 09:55:47,245 - GeographGuardian - DEBUG - Retrieved from cache: current_1.9847397_32.5342155
+2025-04-11 09:55:47,245 - GeographGuardian - DEBUG - Retrieved from cache: forecast_1.9847397_32.5342155
+2025-04-11 09:55:47,245 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:47,245 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:47,245 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:47,245 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:47,302 - GeographGuardian - INFO - Processing supplier SUP009 with coordinates type: <class 'dict'>
+2025-04-11 09:55:47,302 - GeographGuardian - INFO - Getting weather for supplier SUP009 at coordinates: lat=1.9847397, lon=32.5342155
+2025-04-11 09:55:47,302 - GeographGuardian - DEBUG - Retrieved from cache: current_1.9847397_32.5342155
+2025-04-11 09:55:47,302 - GeographGuardian - DEBUG - Retrieved from cache: forecast_1.9847397_32.5342155
+2025-04-11 09:55:47,302 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:47,303 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:47,303 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:47,303 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:47,360 - GeographGuardian - INFO - Processing supplier SUP010 with coordinates type: <class 'dict'>
+2025-04-11 09:55:47,360 - GeographGuardian - INFO - Getting weather for supplier SUP010 at coordinates: lat=1.9847397, lon=32.5342155
+2025-04-11 09:55:47,360 - GeographGuardian - DEBUG - Retrieved from cache: current_1.9847397_32.5342155
+2025-04-11 09:55:47,360 - GeographGuardian - DEBUG - Retrieved from cache: forecast_1.9847397_32.5342155
+2025-04-11 09:55:47,360 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:47,360 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:47,360 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:47,360 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:47,417 - GeographGuardian - INFO - Processing supplier SUP011 with coordinates type: <class 'dict'>
+2025-04-11 09:55:47,417 - GeographGuardian - INFO - Getting weather for supplier SUP011 at coordinates: lat=1.9847397, lon=32.5342155
+2025-04-11 09:55:47,418 - GeographGuardian - DEBUG - Retrieved from cache: current_1.9847397_32.5342155
+2025-04-11 09:55:47,418 - GeographGuardian - DEBUG - Retrieved from cache: forecast_1.9847397_32.5342155
+2025-04-11 09:55:47,418 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:47,418 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:47,418 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:47,418 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:47,476 - GeographGuardian - INFO - Processing supplier SUP012 with coordinates type: <class 'dict'>
+2025-04-11 09:55:47,476 - GeographGuardian - INFO - Getting weather for supplier SUP012 at coordinates: lat=1.9847397, lon=32.5342155
+2025-04-11 09:55:47,477 - GeographGuardian - DEBUG - Retrieved from cache: current_1.9847397_32.5342155
+2025-04-11 09:55:47,477 - GeographGuardian - DEBUG - Retrieved from cache: forecast_1.9847397_32.5342155
+2025-04-11 09:55:47,477 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:47,477 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:47,477 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:47,477 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:47,532 - GeographGuardian - INFO - Processing supplier SUP013 with coordinates type: <class 'dict'>
+2025-04-11 09:55:47,532 - GeographGuardian - INFO - Getting weather for supplier SUP013 at coordinates: lat=1.9847397, lon=32.5342155
+2025-04-11 09:55:47,532 - GeographGuardian - DEBUG - Retrieved from cache: current_1.9847397_32.5342155
+2025-04-11 09:55:47,532 - GeographGuardian - DEBUG - Retrieved from cache: forecast_1.9847397_32.5342155
+2025-04-11 09:55:47,532 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:47,533 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:47,533 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:47,533 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:47,587 - GeographGuardian - INFO - Processing supplier SUP014 with coordinates type: <class 'dict'>
+2025-04-11 09:55:47,587 - GeographGuardian - INFO - Getting weather for supplier SUP014 at coordinates: lat=19.1982908, lon=-99.5486812
+2025-04-11 09:55:47,587 - GeographGuardian - DEBUG - Retrieved from cache: current_19.1982908_-99.5486812
+2025-04-11 09:55:47,587 - GeographGuardian - DEBUG - Retrieved from cache: forecast_19.1982908_-99.5486812
+2025-04-11 09:55:47,587 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:47,587 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:47,587 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:47,587 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:47,645 - GeographGuardian - INFO - Processing supplier SUP015 with coordinates type: <class 'dict'>
+2025-04-11 09:55:47,645 - GeographGuardian - INFO - Getting weather for supplier SUP015 at coordinates: lat=1.9847397, lon=32.5342155
+2025-04-11 09:55:47,645 - GeographGuardian - DEBUG - Retrieved from cache: current_1.9847397_32.5342155
+2025-04-11 09:55:47,645 - GeographGuardian - DEBUG - Retrieved from cache: forecast_1.9847397_32.5342155
+2025-04-11 09:55:47,645 - GeographGuardian - INFO - Current weather response type: <class 'dict'>
+2025-04-11 09:55:47,645 - GeographGuardian - INFO - Forecast response type: <class 'dict'>
+2025-04-11 09:55:47,645 - GeographGuardian - INFO - Weather list type: <class 'list'>
+2025-04-11 09:55:47,645 - GeographGuardian - INFO - First weather item type: <class 'dict'>
+2025-04-11 09:55:47,699 - GeographGuardian - INFO - Processed 15 suppliers, stored 615 weather events
+2025-04-11 09:55:56,424 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-11 09:56:00,716 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-11 09:56:00,722 - GeographGuardian - INFO - Loaded 28 country mappings
+2025-04-11 10:03:57,037 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-11 10:04:01,402 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-11 10:04:01,414 - GeographGuardian - INFO - Prepared supplier-part graph with 24 edges
+2025-04-11 10:04:01,419 - GeographGuardian - ERROR - Error converting to cuGraph: Fatal CUDA error encountered at: /__w/cudf/cudf/cpp/src/bitmask/null_mask.cu:93: 100 cudaErrorNoDevice no CUDA-capable device is detected
+2025-04-11 10:04:01,423 - GeographGuardian - ERROR - Traceback (most recent call last):
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/src/graph_analytics/cugraph_processor.py", line 66, in convert_to_cugraph
+    cudf_df = cudf.DataFrame.from_pandas(edge_data)
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/utils/performance_tracking.py", line 51, in wrapper
+    return func(*args, **kwargs)
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/dataframe.py", line 5551, in from_pandas
+    data = {
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/dataframe.py", line 5552, in <dictcomp>
+    i: column.as_column(col_value.array, nan_as_null=nan_as_null)
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/column/column.py", line 2234, in as_column
+    return as_column(
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/column/column.py", line 2101, in as_column
+    col = ColumnBase.from_arrow(arbitrary)
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/column/column.py", line 397, in from_arrow
+    plc.interop.from_arrow(data).columns()[0]
+  File "/usr/lib/python3.10/functools.py", line 889, in wrapper
+    return dispatch(args[0].__class__)(*args, **kw)
+  File "interop.pyx", line 150, in pylibcudf.interop._from_arrow_table
+RuntimeError: Fatal CUDA error encountered at: /__w/cudf/cudf/cpp/src/bitmask/null_mask.cu:93: 100 cudaErrorNoDevice no CUDA-capable device is detected
+
+2025-04-11 10:04:01,425 - GeographGuardian - INFO - Loaded 28 country mappings

@@ -1,0 +1,71 @@
+2025-04-10 14:08:58,954 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:08:59,018 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:08:59,022 - GeographGuardian - INFO - Loaded 28 country mappings
+2025-04-10 14:09:16,164 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:09:16,234 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:09:16,238 - GeographGuardian - INFO - Loaded 28 country mappings
+2025-04-10 14:09:18,264 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:09:18,357 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:09:18,370 - GeographGuardian - INFO - Loaded 28 country mappings
+2025-04-10 14:09:20,006 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:09:20,092 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:09:20,101 - GeographGuardian - INFO - Prepared part dependency graph with 14 edges
+2025-04-10 14:09:20,109 - GeographGuardian - ERROR - Error converting to cuGraph: Fatal CUDA error encountered at: /__w/cudf/cudf/cpp/src/bitmask/null_mask.cu:93: 100 cudaErrorNoDevice no CUDA-capable device is detected
+2025-04-10 14:09:20,113 - GeographGuardian - ERROR - Traceback (most recent call last):
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/src/graph_analytics/cugraph_processor.py", line 66, in convert_to_cugraph
+    cudf_df = cudf.DataFrame.from_pandas(edge_data)
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/utils/performance_tracking.py", line 51, in wrapper
+    return func(*args, **kwargs)
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/dataframe.py", line 5551, in from_pandas
+    data = {
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/dataframe.py", line 5552, in <dictcomp>
+    i: column.as_column(col_value.array, nan_as_null=nan_as_null)
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/column/column.py", line 2234, in as_column
+    return as_column(
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/column/column.py", line 2101, in as_column
+    col = ColumnBase.from_arrow(arbitrary)
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/column/column.py", line 397, in from_arrow
+    plc.interop.from_arrow(data).columns()[0]
+  File "/usr/lib/python3.10/functools.py", line 889, in wrapper
+    return dispatch(args[0].__class__)(*args, **kw)
+  File "interop.pyx", line 150, in pylibcudf.interop._from_arrow_table
+RuntimeError: Fatal CUDA error encountered at: /__w/cudf/cudf/cpp/src/bitmask/null_mask.cu:93: 100 cudaErrorNoDevice no CUDA-capable device is detected
+
+2025-04-10 14:09:20,115 - GeographGuardian - INFO - Loaded 28 country mappings
+2025-04-10 14:24:47,921 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:24:47,974 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:24:47,977 - GeographGuardian - INFO - Loaded 28 country mappings
+2025-04-10 14:31:16,061 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:31:16,116 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:31:16,123 - GeographGuardian - INFO - Loaded 28 country mappings
+2025-04-10 14:31:17,368 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:31:17,437 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:31:17,442 - GeographGuardian - INFO - Loaded 28 country mappings
+2025-04-10 14:31:18,171 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:31:18,234 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:31:18,243 - GeographGuardian - INFO - Prepared supplier-part graph with 24 edges
+2025-04-10 14:31:18,245 - GeographGuardian - ERROR - Error converting to cuGraph: Fatal CUDA error encountered at: /__w/cudf/cudf/cpp/src/bitmask/null_mask.cu:93: 100 cudaErrorNoDevice no CUDA-capable device is detected
+2025-04-10 14:31:18,247 - GeographGuardian - ERROR - Traceback (most recent call last):
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/src/graph_analytics/cugraph_processor.py", line 66, in convert_to_cugraph
+    cudf_df = cudf.DataFrame.from_pandas(edge_data)
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/utils/performance_tracking.py", line 51, in wrapper
+    return func(*args, **kwargs)
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/dataframe.py", line 5551, in from_pandas
+    data = {
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/dataframe.py", line 5552, in <dictcomp>
+    i: column.as_column(col_value.array, nan_as_null=nan_as_null)
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/column/column.py", line 2234, in as_column
+    return as_column(
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/column/column.py", line 2101, in as_column
+    col = ColumnBase.from_arrow(arbitrary)
+  File "/home/kdn-admin/Documents/Intern-Exploratory-Projects/Team/ANKIT-SASHWAT/supply-chain-resilience/install/venv/lib/python3.10/site-packages/cudf/core/column/column.py", line 397, in from_arrow
+    plc.interop.from_arrow(data).columns()[0]
+  File "/usr/lib/python3.10/functools.py", line 889, in wrapper
+    return dispatch(args[0].__class__)(*args, **kw)
+  File "interop.pyx", line 150, in pylibcudf.interop._from_arrow_table
+RuntimeError: Fatal CUDA error encountered at: /__w/cudf/cudf/cpp/src/bitmask/null_mask.cu:93: 100 cudaErrorNoDevice no CUDA-capable device is detected
+
+2025-04-10 14:31:18,250 - GeographGuardian - INFO - Loaded 28 country mappings
+2025-04-10 14:38:35,047 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:38:35,105 - GeographGuardian - WARNING - CUDA not available for graph processing: cudaErrorNoDevice: no CUDA-capable device is detected
+2025-04-10 14:38:35,109 - GeographGuardian - INFO - Loaded 28 country mappings
