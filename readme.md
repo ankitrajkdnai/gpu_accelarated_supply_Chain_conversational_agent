@@ -9,7 +9,7 @@ This project enables:
 - **GPU-accelerated graph analytics** to identify vulnerable nodes and alternative paths
 - **Hybrid query execution** combining ArangoDB's AQL for path analysis and cuGraph for complex network metrics
 - **Interactive visualizations** showing risk propagation through the supply chain network
-- **Automated mitigation recommendations** based on historical patterns and network structure
+- **Automated mitigation recommendations** based on historical patterns and network structure.
 
 ## Features
 
